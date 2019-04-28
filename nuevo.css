@@ -8,19 +8,19 @@
 body{
       background-color: #0A1357;
 }
-#ag{                  
-  background-color: blue;
+#ag{
+  background-color: red;
   height:  35px;
   width: 170px;
   top: 180px;
   border-color: #000;
   border-style: solid;
   text-align: center;
-  text-color: white;
+  text-color: black;
   font-size: 22;
   font-family: arial black;
 }
-h:hover{
+#ag:hover{
   background-color: #fff;
   color: #000;
 }
