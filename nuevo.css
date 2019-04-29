@@ -12,7 +12,8 @@ body{
   background-color: red;
   height:  35px;
   width: 170px;
-  top: 180px;
+  position: relative;
+  top: 390px;
   border-color: #000;
   border-style: solid;
   text-align: center;
@@ -26,6 +27,8 @@ body{
 }
 
 header nav{
+  position: fixed;
+  width: 100%;
   background-color: #000;
 }
 header nav ul{
